@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    height: 5000px;
+    background-color: #FF665A;
+    
+}
+nav{    
+    background-color:  rgb(0, 0, 0);
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    padding-top: 4px;
+    padding-bottom: 0px;
+    
+    
+
+}
+nav .Logo{
+    color: rgb(255, 255, 255);
+    float: left;
+    display: block;
+    padding: 14px 16px;
+    
+}
+
+nav a{
+    color:#F2F0D5;
+    font-size: 18px;
+    float: right;
+    text-decoration: none;
+    display: block;
+    padding: 10px 16px;
+    border-radius: 700px;
+    
+    
+
+
+}
+nav a:hover{
+    transition: 0.5s;
+    background-color:rgb(255, 255, 255);
+    color: #333;
+    
+}
