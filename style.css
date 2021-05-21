@@ -153,47 +153,20 @@ h3 {
 }
 .cardapio2 {
    color: whitesmoke;
-   text-align: right;
+   text-align:right;
    margin-right: 50px;
    font-family: Poppins;
-   font-size: 20px;
+   font-size: 15px;
 }
-#prato1{
-   width:40%;
+
+.pratos{
+   width:50%;
    position: relative;
    top: 50px;;
    float: right;
+   text-align:start;
 }
-#prato2{
-   width:40%;
-   position: relative;
-   top: 50px;;
-   float: right;
-}
-#prato3{
-   width:40%;
-   position: relative;
-   top: 50px;;
-   float: right;
-}
-#prato4{
-   width:45%;
-   position: relative;
-   top: 50px;;
-   float: right;
-}
-#prato5{
-   width:40%;
-   position: relative;
-   top: 50px;;
-   float: right;
-}
-#prato6{
-   width:40%;
-   position: relative;
-   top: 50px;;
-   float: right;
-}
+
 /*sessão receitas*/
 .receitas {
    color: whitesmoke;
